@@ -1,8 +1,8 @@
-# 🌌 Dimension Studio
+![Dimension Studio Banner](https://cdn-dms.mckimkung.in.th/1i3dafcua/dimensionbanner.png)
 
+# 🌌 Dimension Studio
 Welcome to **Dimension Studio** – a small but dangerously curious team of developers who craft weird, wild, and sometimes useful things in **Minecraft** and other digital universes. We experiment. We break stuff. Then we make it cooler.
 
-![Dimension Studio Banner](https://cdn-dms.mckimkung.in.th/1i3dafcua/dimensionbanner.png)
 
 ## 💡 Who Are We?
 
